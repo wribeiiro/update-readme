@@ -3,7 +3,7 @@ name: Update READMEs
 on:
   push:
     paths:
-      - "projects.md"
+      - "algum-arquivo-ai.md"
 jobs:
   action:
     runs-on: ubuntu-latest
